@@ -1,1 +1,1 @@
-import numpy as np
+print("안녕하세요")
